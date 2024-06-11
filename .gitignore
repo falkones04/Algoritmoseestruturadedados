@@ -12,3 +12,5 @@ obj/Debug/net8.0/Algoritmoseestruturadedados.assets.cache
 obj/Debug/net8.0/Algoritmoseestruturadedados.AssemblyInfoInputs.cache
 obj/Debug/net8.0/Algoritmoseestruturadedados.AssemblyInfo.cs
 obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+bin/Debug/net8.0/Algoritmoseestruturadedados.deps.json
+*.dll
